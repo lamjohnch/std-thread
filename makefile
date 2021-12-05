@@ -1,0 +1,1 @@
+g++ -std=c++11 std-thread.cpp -lpthread -g -o std-thread
