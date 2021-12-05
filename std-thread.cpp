@@ -59,7 +59,6 @@ int main(int argc, char* argv[])
     string s1 = "t1";
     string *pS = nullptr; // = new string("pS");
     
-    cout << "starting main " << endl << endl;
 //        int policy = SCHED_RR;
 //        int minPrio = sched_get_priority_min(policy);
 //        int maxPrio = sched_get_priority_max(policy);
