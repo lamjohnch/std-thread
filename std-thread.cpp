@@ -89,6 +89,8 @@ int main(int argc, char* argv[])
     testthread th1; 
     //testthread th2; 
 
+	cout << "start" << endl;
+
      std::thread t1(&testthread::f1, &th1, std::ref(s1)); //
      //std::thread t2(&testthread::f2, std::ref(pS)); // 
      //std::thread t3(&testthread::f3, std::ref(pS)); //
