@@ -6,6 +6,11 @@ add to main branch in 2, 2022 10 19 1044pm
 add in 2, 2022 10 19 1106pm 
 
 2. 
+<<<<<<< Updated upstream
 
 
 3. 
+=======
+add-test-sentence 2022 10 19 22:19
+3.
+>>>>>>> Stashed changes
